@@ -1,0 +1,57 @@
+@media (max-width:992px) {
+    .price__body {display: block;}
+    .price-body__doc {width: 100%;}
+    .price-body__person__img {width: 40%; z-index: 2;}
+    .price-body__person {display: flex; justify-content: flex-end;}
+    .price-body__subscription {left: 5%;}
+    .price__column:first-child {display: flex; width: 100%; flex-direction: column;}
+    .price__column:last-child {display: block;}
+    .input__subtitle {font-size: 28px;}
+    .video__body {height: 400px;}
+    .video-body__button__link {left: 44%; top: 38%;}
+    .video-body__title {font-size: 28px;}
+    .about__subtittle {font-size: 30px;}
+}
+
+@media (max-width:768px) {
+    .__container {width: 100%;}
+    .hero__container {display: block;}
+    .hero__tittle {font-size: 48px;}
+    .title {font-size: 16px;}
+    .subtitle {font-size: 32px;}
+    .text {font-size: 16px;}
+    .proce-body__subtitle {font-size: 16px;}
+    .price-body__person__img {height: 60%;}
+    .entered {width: 50%;}
+    .hero__image {display: flex; justify-content: flex-end;}
+    .hero__video {position: absolute; top: 70%; left: 10%; z-index: 2;}
+    .about__container {display: flex; flex-direction: column;}
+    .about__video__link {bottom: 0; left: 5%;}
+    .adavantages__container {display: flex; flex-direction: column;}
+    .clients__body__avatar1 {width: 50px; height: 50px; top: 23%;}
+    .clients__body__avatar2 {width: 50px; height: 50px; top: 23%;}
+    .clients__body__avatar3 {width: 50px; height: 50px; right: 12%;}
+    .clients__body__avatar4 {width: 50px; height: 50px;}
+    .clients__body__avatar5 {width: 50px; height: 50px; top: 83%;}
+    .clients__body__avatar6 {width: 50px; height: 50px; left: 12%;}
+    .service__top {flex-direction: column;}
+    .service__text {margin-top: 30px;}
+    .card {width: 100%;}
+    .hero__image::before {width: 30%;}
+    .input__subtitle {font-size: 18px;}
+    ::placeholder {font-size: 12px;}
+    .partners__content__logo {width: 50px;}
+    .partner1 {left: 3%;}
+    .partner2 {left: 9%;}
+    .partner3 {left: 22%;}
+    .partner4 {left: 46%; top: 4%;}
+    .partner5 {right: 25%;}
+    .partner6 {right: 11%;}
+    .partner7 {right: 6%;}
+    .footer__top {display: flex; flex-direction: column;}
+    .footer__actions {flex-direction: row;}
+    .video__body {height: 300px;}
+    .video-body__title {font-size: 22px;}
+    .gradient-bg::before {width: 50%;}
+    
+}

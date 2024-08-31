@@ -1,0 +1,18 @@
+@media (max-width:530px) {
+    ::placeholder {font-size: 10px;}
+    .form-subscribe__input {padding-left: .5rem;}
+    .form-subscribe__button {padding: .6rem;}
+    .choose__text {font-size: 12px;}
+    .choose_tittle {font-size: 16px;}
+    .choose_column {width: 100%;}
+}
+
+@media (max-width:446px) {
+    .choose__body {display: flex; flex-direction: column; height: 100%;}
+    .about__image__clipdrop {width: 100%;}
+    .about__video__link {right: 0;}
+    .video-body__button__link {right: 46%;}
+    .hero__image::before {width: 20%;}
+    .choose__text {font-size: 12px; width: 100%;}
+    .about__image__background {top: 0%;}
+}
